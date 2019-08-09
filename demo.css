@@ -1,0 +1,118 @@
+body{
+	margin: 0px;
+}
+
+#header{
+	width:100%;
+	height: 20%;
+	margin: 0 auto;
+	background-color: #4c5471;
+}
+#logoimg{
+	width:12.7%;
+	height: 100%;
+	background-image: url("img/logo.jpg");
+	float: left;
+	background-repeat: no-repeat;
+	
+}
+
+
+#name{
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}
+#main { 
+    width: 100%;
+    margin: 0 auto;
+}
+#sidebar    {
+    width: 172px;
+    min-height: 500px;
+    background: #4c5471;
+    float: left;
+}
+
+#sidebar a {
+	 padding: 46px 16px 12px 34px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #f1f1f1;
+    display: block;
+}
+
+
+
+
+#page-wrap  {
+    width: 100%	;
+    background: white;
+    min-height: 500px;
+    
+}
+
+#wall {
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+    position: relative;
+    border-color: red;
+    border-style: solid;
+    margin-left: 400px;
+}
+#ac1{
+	position: absolute;
+	height: 30px;
+	right: 500px;
+	left: 31px;
+	background-color: yellow;
+}
+#ac2{
+	position: absolute;
+	height: 30px;
+	right: 282px;
+	left: 248px;
+	background-color: yellow;
+}
+#ac3{
+	position: absolute;
+	height: 30px;
+	right: 31px;
+	left: 500px;
+	background-color: yellow;
+}
+#gen1{
+	position: absolute;
+	margin-top:205px;
+	height: 60px;
+	right: 500px;
+	left: 31px;
+	background-color: red;
+}
+#gen2{
+	position: absolute;
+	margin-top:205px;
+	height: 60px;
+	right: 282px;
+	left: 248px;
+	background-color: red;
+}
+#gen3{
+	position: absolute;
+	margin-top:205px;
+	height: 60px;
+	right: 31px;
+	left: 500px;
+	background-color: red;
+}
+#footer {
+   
+   left: 0;
+   bottom: 0;
+   height: 70px;
+   width: 100%;
+   background-color: yellow;
+   color: white;
+   text-align: center;
+}

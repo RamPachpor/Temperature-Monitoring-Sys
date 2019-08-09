@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+}
+#logo{
+	width:12.7%;
+	height: auto;
+	overflow: hidden;
+	float: unset;
+	background-repeat: no-repeat;
+}
+
+#logo img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 11%;
+    min-height: 100px;
+}
+
+#header
+{
+	background-color: #4c5471;
+	height: 75px;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+#navbar{
+	height: auto;
+	padding-right: 0px;
+	padding-left: 0px;
+	
+	margin-left: auto;
+	margin-left: auto;
+	position: sticky;
+}
+
+.nav-link{
+	padding: 12px;
+}
+
+#page-wrap  {
+    width: 100%	;
+    background: white;
+    min-height: 500px;
+    
+}
+
+#maintitle{
+	text-align: center;
+
+}
+
